@@ -1,0 +1,17 @@
+.VendingMachine {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+
+.VendingMachine div {
+    margin-left: 2rem;
+}
+
+.VendingMachine nav {
+    display: flex;
+    flex-direction: column;
+    font-size: larger;
+}
+

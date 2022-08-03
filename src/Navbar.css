@@ -1,0 +1,14 @@
+.Navbar {
+    background-color: rgb(83, 83, 83);
+    margin-bottom: 1rem;
+}
+
+.Navbar a {
+    color: white;
+    margin: 1rem;
+}
+
+.Navbar a.active {
+    color: goldenrod;
+    font-weight: bold;
+}
